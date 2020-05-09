@@ -12,3 +12,13 @@
 #### Our next steps in this project would be taking location into account to determine relative risk of specified locations.
 
 #### The coode found in New_Orleans_Flood_Risk/Final_Notebook_Nola_Flooding will run provided with the datasets we used.
+
+### Below are screenshots of the output of the code.
+![Capture](https://user-images.githubusercontent.com/46548925/81460999-0046d800-9177-11ea-831f-153e69eb3874.JPG)
+![Capture2](https://user-images.githubusercontent.com/46548925/81461008-076de600-9177-11ea-96ed-cac5e08ca0ba.JPG)
+![Capture3](https://user-images.githubusercontent.com/46548925/81461011-0c329a00-9177-11ea-97f0-30299578d0c3.JPG)
+![Capture4](https://user-images.githubusercontent.com/46548925/81461015-0e94f400-9177-11ea-81ff-8423ef012d20.JPG)
+![Capture5](https://user-images.githubusercontent.com/46548925/81461017-12287b00-9177-11ea-8ef4-12e2b9a191b2.JPG)
+![Capture6](https://user-images.githubusercontent.com/46548925/81461018-13f23e80-9177-11ea-982a-6656fc0d3948.JPG)
+![Capture7](https://user-images.githubusercontent.com/46548925/81461019-15bc0200-9177-11ea-967e-aa173a30e442.JPG)
+![Capture8](https://user-images.githubusercontent.com/46548925/81461021-1785c580-9177-11ea-9ac6-e7fbbea6eb51.JPG)
